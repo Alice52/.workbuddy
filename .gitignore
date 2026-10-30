@@ -1,0 +1,3 @@
+# 只共享薄入口 MEMORY.md，每日工作日志属个人本地数据不提交
+memory/
+!memory/MEMORY.md
